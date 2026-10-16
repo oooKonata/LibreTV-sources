@@ -1,0 +1,30 @@
+{
+  "name": "LibreTV 高清源精选",
+  "version": 2,
+  "sources": [
+    { "name": "量子资源", "url": "http://cj.lziapi.com/api.php/provide/vod" },
+    { "name": "电影天堂", "url": "http://caiji.dyttzyapi.com/api.php/provide/vod" },
+    { "name": "非凡影视", "url": "http://ffzy5.tv/api.php/provide/vod" },
+    { "name": "非凡2", "url": "http://cj.ffzyapi.com/api.php/provide/vod" },
+    { "name": "艾旦影视", "url": "http://lovedan.net/api.php/provide/vod" },
+    { "name": "飘零资源", "url": "https://p2100.net/api.php/provide/vod" },
+    { "name": "最大资源", "url": "http://zuidazy.me/api.php/provide/vod" },
+    { "name": "360资源", "url": "https://360zy.com/api.php/provide/vod" },
+    { "name": "无尽资源", "url": "https://api.wujinapi.com/api.php/provide/vod" },
+    { "name": "百度云", "url": "https://api.apibdzy.com/api.php/provide/vod" },
+    { "name": "金鹰资源", "url": "http://jyzyapi.com/api.php/provide/vod" },
+    { "name": "豪华资源", "url": "https://hhzyapi.com/api.php/provide/vod" },
+    { "name": "极速资源", "url": "https://jszyapi.com/api.php/provide/vod" },
+    { "name": "红牛资源", "url": "https://www.hongniuzy2.com/api.php/provide/vod" },
+    { "name": "虎牙资源", "url": "https://www.huyaapi.com/api.php/provide/vod" },
+    { "name": "魔都资源", "url": "https://caiji.moduapi.cc/api.php/provide/vod" },
+    { "name": "新浪资源", "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod" },
+    { "name": "光速资源", "url": "https://api.guangsuapi.com/api.php/provide/vod" }
+  ],
+  "liveSources": [
+    { "name": "美国综合频道", "url": "https://iptv-org.github.io/iptv/countries/us.m3u" },
+    { "name": "全球电影频道", "url": "https://iptv-org.github.io/iptv/categories/movies.m3u" },
+    { "name": "全球纪录片频道", "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u" },
+    { "name": "简单TV", "url": "http://iptv.ruyitv.cc/m3u/tv.txt" }
+  ]
+}
